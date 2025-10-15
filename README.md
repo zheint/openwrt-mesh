@@ -9,7 +9,7 @@ make_mesh_point: adds mesh functionality, Mesh network and Wifi network
 
 1. SSH into your router
 2. run make_dumb_ap.sh
-3. wget -O make_dumb_ap.sh (https://raw.githubusercontent.com/onemarcfifty/openwrt-mesh/refs/heads/main/make_dumb_ap.sh)
+3. wget -O make_dumb_ap.sh https://raw.githubusercontent.com/onemarcfifty/openwrt-mesh/refs/heads/main/make_dumb_ap.sh
 	    chmod +x make_dumb_ap.sh
 		sh make_dumb_ap.sh
 	
